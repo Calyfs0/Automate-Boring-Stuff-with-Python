@@ -1,8 +1,8 @@
 # Pattern to print
 
-#   *
-#  * *
-# *   *
+#    *
+#   * *
+#  *   *
 # *******
 
 # Will do tomorrow
