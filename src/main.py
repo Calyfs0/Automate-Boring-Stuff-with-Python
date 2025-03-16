@@ -1,6 +1,7 @@
-import classes.magic8Ball as mb
-import random
+# import classes.magic8ball as mb
+# import random
 
-r = random.randint(1, 9)
-answer = mb.getAnswer(r)
-print(answer)
+# r = random.randint(1, 9)
+# answer = mb.getAnswer(r)
+# print(answer)
+# print(1 << 2)
